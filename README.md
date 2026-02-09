@@ -1,97 +1,78 @@
-# **<div align="center">Hi there! 👋</div>**  
-  
-
-## 👨‍💻 About Me  
-  
-
-With over a decade of experience as a **DTP operator** and **graphic designer**, I have developed a strong eye for detail, problem-solving skills, and the ability to work independently. The fast-paced printing industry demands precision, and I take pride in delivering high-quality results with an efficient workflow.
-
-Currently, I am transitioning into **frontend development**, combining my design expertise with coding skills to craft intuitive and visually appealing user interfaces. My knowledge of web development is continuously expanding as I keep up with the latest trends and technologies.  
-  
-
-## 🔹 **Key Strengths:**  
-  
-
-- Pixel-perfect design and UI/UX understanding 🎨
-- Attention to detail and structured workflow 🔍
-- Passion for learning and problem-solving 🚀  
-  
-
-I am actively looking for **frontend developer** opportunities but remain open to roles in graphic design where my skills can make an impact.  
-  
-
-<br/>  
-
-
-## 🚀 **Tech Stack**  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Graphic design  
-<div align="center">  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## 📫 **Let's Connect!**  
 <div align="center">
-<a href="https://github.com/KonradJam" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/KonradJam_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/konradjam" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.com/konradjam" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
+# Hi there, I'm Konrad! 👋
+### Designer turned Automator & Developer
 
+<p align="center">
+  <em>"Design needs precision. Development needs logic. Automation needs both."</em>
+</p>
 
-## 📊 **GitHub Stats** 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=konradjam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+[LinkedIn](https://linkedin.com/in/konradjam) • [Twitter](https://twitter.com/KonradJam_) • [Email Me](mailto:twoj@email.com)
 
-<br/>  
 ---
+
+</div>
+
+## 🚀 About Me
+
+I am a **Technical Creative** with over 15 years of experience in the printing industry (DTP). My career began with pixel-perfect design, but my curiosity led me to code.
+
+Why? Because I believe that **repetitive tasks should be handled by machines, leaving creativity to humans.**
+
+My background in high-pressure print production taught me absolute scrutiny, error detection, and workflow optimization. Today, I use **Python, JavaScript, and Adobe ExtendScript** to build tools that eliminate human error and speed up production processes.
+
+Currently, I bridge the gap between **visual aesthetics and backend logic**, creating solutions that are not only functional but also intuitive.
+
+## ⚡ What I Do
+
+| **Focus Area** | **Description** |
+| :--- | :--- |
+| 🤖 **Automation** | Building scripts and workflows (Python, ExtendScript) to automate repetitive tasks in design and file processing. |
+| 🛠️ **Development** | Combining Frontend & Backend knowledge (Flask, JS) to create custom tools and interfaces. |
+| 🎨 **Design & UI** | Leveraging 15+ years of DTP experience to ensure high usability and visual quality in technical projects. |
+| 🔌 **IoT & Electronics** | Experimenting with sensors and microcontrollers to bring automation into the physical world. |
+
 <br/>
 
-💡 *Always eager to learn, adapt, and contribute to projects that push creative and technical boundaries.*
+## 🛠️ Tech Stack & Tools
+
+### **Core & Automation**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Adobe ExtendScript](https://img.shields.io/badge/Adobe%20ExtendScript-001E36?style=for-the-badge&logo=adobe&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### **Web Development**
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **Design & Prototyping**
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/adobe%20indesign-%23FF3366.svg?style=for-the-badge&logo=adobe%20indesign&logoColor=white)
+
+### **Interests & Emerging Tech**
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/AI_&_LLMs-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+<br/>
+
+## 🧩 Philosophy
+
+> *"I am a graphic designer who loves code, and a developer who understands design."*
+
+My goal is simple: **Less friction, more flow.** Whether it's a script that automates PDF imposition or a web app that manages inventory, I look for ways to optimize time and resources. I am open to B2B and freelance opportunities where I can apply this hybrid skillset.
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=konradjam&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konradjam&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+
+</div>
