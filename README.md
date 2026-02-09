@@ -7,8 +7,6 @@
   <em>"Design needs precision. Development needs logic. Automation needs both."</em>
 </p>
 
-[LinkedIn](https://linkedin.com/in/konradjam) • [Twitter](https://twitter.com/KonradJam_) • [Email Me](mailto:twoj@email.com)
-
 ---
 
 </div>
@@ -67,12 +65,3 @@ Currently, I bridge the gap between **visual aesthetics and backend logic**, cre
 > *"I am a graphic designer who loves code, and a developer who understands design."*
 
 My goal is simple: **Less friction, more flow.** Whether it's a script that automates PDF imposition or a web app that manages inventory, I look for ways to optimize time and resources. I am open to B2B and freelance opportunities where I can apply this hybrid skillset.
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=konradjam&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konradjam&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-
-</div>
